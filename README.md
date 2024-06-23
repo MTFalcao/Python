@@ -1,4 +1,4 @@
-# Python
+# Paradigmas em Python
 
 ### <p align="left">Espaço reservado aos códigos feitos na disciplina de Python</p>
 
